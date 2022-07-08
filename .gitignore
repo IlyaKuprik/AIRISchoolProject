@@ -8,3 +8,6 @@ NetVLADApproach/indoor_SiriusPlace[NotSplitted]
 NetVLADApproach/Sejong
 NetVLADApproach/Sejong.tgz
 NetVLADApproach/*.zip
+NetVLADApproach/.ipynb_checkpoints/
+NetVLADApproach/raw_data/
+NetVLADApproach/reduced_data/
