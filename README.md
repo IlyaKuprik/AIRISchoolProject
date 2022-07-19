@@ -26,6 +26,8 @@ Recognition в рамках данной
 мест, являющийся
 подмножеством датасета Google
 Landmarks.
+
+![пример фото из датасета](https://github.com/IlyaKuprik/AIRISchoolProject/blob/main/images/places_examle.png)
 ## Методология
 Базовой архитектурой в нашей
 модели является NetVLAD. Это
